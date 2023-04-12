@@ -12,6 +12,6 @@
 - How to work with CSS variables;
 - Array randomization;
 
-## This serves more as a boilerplate. I intend to make this project a React component in my Discover Romania website.
+#### This serves more as a boilerplate. I intend to make this project a React component in my Discover Romania website.
 
 *Tutorial by Web Dev Simplified*
